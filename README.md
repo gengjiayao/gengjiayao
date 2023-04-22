@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi, 👋 I'm GengJiayao
 
 <!--
 **gengjiayao/gengjiayao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/?username=gengjiayao&theme=radical" />
+<p align="center">
+  <a href="https://github.com/gengjiayao" class="rich-diff-level-one">
+    <img src="https://github-readme-stats.vercel.app/api?username=gengjiayao&title_color=333&text_color=777" alt="GengJiayao's Stats" >
+    <!-- &hide=issues
+    <img src="https://github-readme-stats.vercel.app/api?username=gengjiayao&hide=issues&title_color=333&text_color=777" alt="GengJiayao's Stats" >
+    -->
+  </a>
+</p>
