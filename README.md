@@ -22,10 +22,9 @@
 
 
 <p align="center"> 
-  <img src="./kongju.jpg" width="30px"/>
+  <img src="./kongju.jpg" width="40px"/>
   I'm a rookie who couldn't even boil an egg!
 </p>
-
 
 ---
 
