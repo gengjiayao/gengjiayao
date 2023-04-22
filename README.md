@@ -25,6 +25,21 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me: My personal emal is 1098469310@qq.com. My shool email is 20221282@bjtu.edu.cn.
 
+<p align="center">
+  <a href="https://space.bilibili.com/323342686" target="_blank" alt="Bilibili" title="Bilibili">
+    <img src="https://user-images.githubusercontent.com/29084184/166415345-91925d37-c66f-448f-8d75-c8355fe0b692.png" width="30px"/>
+  </a>
+   &emsp;
+  <a href="https://www.zhihu.com/people/geng-jiao-40" target="_blank" alt="Zhihu" title="Zhihu">
+    <img src="https://img.icons8.com/material-two-tone/50/000000/zhihu.png" width="28px"/>
+  </a>
+  &emsp;
+  <a href="https://www.youtube.com/channel/UCxFkZjbpt0KyhEv1d342SQQ" target="_blank" alt="YouTube" title="YouTube">
+    <img src="https://img.icons8.com/ios-filled/50/000000/youtube-play.png" width="30px"/>
+  </a>
+  &emsp;
+</p>
+
 ---
 
 <p align="center"> 
@@ -51,9 +66,7 @@ Here are some ideas to get you started:
     <img src="https://skillicons.dev/icons?i=linux,unity" />
   </a>
 </p>
-
----
-
+<!--
 <p align="center">
   <a href="https://github.com/gengjiayao" class="rich-diff-level-one">
     <img src="https://github-readme-stats.vercel.app/api?username=gengjiayao&title_color=333&text_color=777" alt="GengJiayao's Stats" >
@@ -62,18 +75,4 @@ Here are some ideas to get you started:
     -->
   </a>
 </p>
-
-<p align="center">
-  <a href="https://space.bilibili.com/323342686" target="_blank" alt="Bilibili" title="Bilibili">
-    <img src="https://user-images.githubusercontent.com/29084184/166415345-91925d37-c66f-448f-8d75-c8355fe0b692.png" width="30px"/>
-  </a>
-   &emsp;
-  <a href="https://www.zhihu.com/people/geng-jiao-40" target="_blank" alt="Zhihu" title="Zhihu">
-    <img src="https://img.icons8.com/material-two-tone/50/000000/zhihu.png" width="28px"/>
-  </a>
-  &emsp;
-  <a href="https://www.youtube.com/channel/UCxFkZjbpt0KyhEv1d342SQQ" target="_blank" alt="YouTube" title="YouTube">
-    <img src="https://img.icons8.com/ios-filled/50/000000/youtube-play.png" width="30px"/>
-  </a>
-  &emsp;
-</p>
+-->
