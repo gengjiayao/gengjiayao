@@ -20,9 +20,11 @@
 
 - 📫 How to reach me: My personal emal is 1098469310@qq.com. My shool email is 20221282@bjtu.edu.cn.
 
+<p align="center"> 
+  <img src="./IMG_6632.GIF" width="60px"/>
+</p>
 
 <p align="center"> 
-  <img src="./IMG_6632.GIF" width="40px"/>
   I'm a rookie who couldn't even boil an egg!
 </p>
 
