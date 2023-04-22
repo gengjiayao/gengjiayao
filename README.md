@@ -18,7 +18,7 @@
 
 - 😄 As for hobbies, I enjoy activities such as solving Rubik's Cube, archery, and playing tennis.
 
-- 📫 How to reach me: My personal emal is 1098469310@qq.com. My shool email is 20221282@bjtu.edu.cn.
+- 📫 My personal emal is 1098469310@qq.com. My shool email is 20221282@bjtu.edu.cn.
 
 <p align="center"> 
   <img src="./IMG_6632.GIF" width="80px"/>
