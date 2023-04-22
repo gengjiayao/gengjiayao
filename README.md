@@ -43,24 +43,29 @@ Here are some ideas to get you started:
 ---
 
 <p align="center"> 
-<strong> Competent </strong>
+  <strong> Competent </strong>
 </p>
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cpp,c,py,docker,mysql" />
   </a>
 </p>
+
 <p align="center"> 
-<strong> Beginner </strong>
+  <strong> Beginner </strong>
 </p>
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=scala,java,vim,git,html,csslatex" />
   </a>
 </p>
+
 <p align="center"> 
-<strong> Interests </strong>
+  <strong> Interests </strong>
 </p>
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=linux,unity" />
@@ -68,13 +73,12 @@ Here are some ideas to get you started:
 </p>
 
 <!--
-<p align="center">
-  <a href="https://github.com/gengjiayao" class="rich-diff-level-one">
-    <img src="https://github-readme-stats.vercel.app/api?username=gengjiayao&title_color=333&text_color=777" alt="GengJiayao's Stats" >
-    <!-- &hide=issues
-    <img src="https://github-readme-stats.vercel.app/api?username=gengjiayao&hide=issues&title_color=333&text_color=777" alt="GengJiayao's Stats" >
-    -->
-  </a>
-</p>
-
+  <p align="center">
+    <a href="https://github.com/gengjiayao" class="rich-diff-level-one">
+      <img src="https://github-readme-stats.vercel.app/api?username=gengjiayao&title_color=333&text_color=777" alt="GengJiayao's Stats" >
+      <!-- &hide=issues
+      <img src="https://github-readme-stats.vercel.app/api?username=gengjiayao&hide=issues&title_color=333&text_color=777" alt="GengJiayao's Stats" >
+      -->
+    </a>
+  </p>
 -->
