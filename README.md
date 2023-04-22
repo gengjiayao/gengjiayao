@@ -25,6 +25,35 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me: My personal emal is 1098469310@qq.com. My shool email is 20221282@bjtu.edu.cn.
 
+---
+
+<p align="center"> 
+<strong> Competent </strong>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,c,py,docker,mysql" />
+  </a>
+</p>
+<p align="center"> 
+<strong> Beginner </strong>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=scala,java,vim,git,html,csslatex" />
+  </a>
+</p>
+<p align="center"> 
+<strong> Interests </strong>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,unity" />
+  </a>
+</p>
+
+---
+
 <p align="center">
   <a href="https://github.com/gengjiayao" class="rich-diff-level-one">
     <img src="https://github-readme-stats.vercel.app/api?username=gengjiayao&title_color=333&text_color=777" alt="GengJiayao's Stats" >
