@@ -60,7 +60,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=scala,java,vim,git,,docker,html,css,latex" />
+    <img src="https://skillicons.dev/icons?i=scala,java,vim,git,docker,html,css,latex" />
   </a>
 </p>
 
