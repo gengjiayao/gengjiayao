@@ -28,6 +28,20 @@
   I'm a rookie who couldn't even boil an egg!
 </p>
 
+<p align="center">
+  <a href="https://space.bilibili.com/323342686" target="_blank" alt="Bilibili" title="Bilibili">
+    <img src="https://user-images.githubusercontent.com/29084184/166415345-91925d37-c66f-448f-8d75-c8355fe0b692.png" width="30px"/>
+  </a>
+   &emsp;
+  <a href="https://www.zhihu.com/people/geng-jiao-40" target="_blank" alt="Zhihu" title="Zhihu">
+    <img src="https://img.icons8.com/material-two-tone/50/000000/zhihu.png" width="28px"/>
+  </a>
+  &emsp;
+  <a href="https://www.youtube.com/channel/UCxFkZjbpt0KyhEv1d342SQQ" target="_blank" alt="YouTube" title="YouTube">
+    <img src="https://img.icons8.com/ios-filled/50/000000/youtube-play.png" width="30px"/>
+  </a>
+</p>
+
 ---
 
 <p align="center"> 
@@ -57,19 +71,5 @@
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=linux,unity" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://space.bilibili.com/323342686" target="_blank" alt="Bilibili" title="Bilibili">
-    <img src="https://user-images.githubusercontent.com/29084184/166415345-91925d37-c66f-448f-8d75-c8355fe0b692.png" width="30px"/>
-  </a>
-   &emsp;
-  <a href="https://www.zhihu.com/people/geng-jiao-40" target="_blank" alt="Zhihu" title="Zhihu">
-    <img src="https://img.icons8.com/material-two-tone/50/000000/zhihu.png" width="28px"/>
-  </a>
-  &emsp;
-  <a href="https://www.youtube.com/channel/UCxFkZjbpt0KyhEv1d342SQQ" target="_blank" alt="YouTube" title="YouTube">
-    <img src="https://img.icons8.com/ios-filled/50/000000/youtube-play.png" width="30px"/>
   </a>
 </p>
