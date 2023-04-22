@@ -6,7 +6,6 @@
     <img src="https://github-readme-stats.vercel.app/api?username=gengjiayao&title_color=333&text_color=777" alt="GengJiayao's Stats" >
     <!-- &hide=issues
     <img src="https://github-readme-stats.vercel.app/api?username=gengjiayao&hide=issues&title_color=333&text_color=777" alt="GengJiayao's Stats" >
-    -->
   </a>
 </p>
 -->
