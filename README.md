@@ -28,11 +28,11 @@
   I'm a rookie who couldn't even boil an egg!
 </p>
 
+---
+
 <p align="center"> 
   <strong> Competent </strong>
 </p>
-
----
 
 <p align="center">
   <a href="https://skillicons.dev">
