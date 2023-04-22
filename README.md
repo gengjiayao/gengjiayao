@@ -15,8 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-  ✨ 北京交通大学大三在读，计算机科学与技术专业
+- 🔭 I’m currently a junior majoring in Computer Science and Technology at [Beijing Jiaotong University](https://www.bjtu.edu.cn).
 
+- 🌱 I’m studying the relevant knowledge of computer hardware, especially computer architecture and operating systems.
+
+- 👯 I’m currently preparing for the nscscc-2023 and the Operating System Kernel Contest with my team.
+
+- 😄 As for hobbies, I enjoy activities such as solving Rubik's Cube, archery, and playing tennis.
+
+- 📫 How to reach me: My personal emal is 1098469310@qq.com. My shool email is 20221282@bjtu.edu.cn.
+  
 <p align="center">
   <a href="https://github.com/gengjiayao" class="rich-diff-level-one">
     <img src="https://github-readme-stats.vercel.app/api?username=gengjiayao&title_color=333&text_color=777" alt="GengJiayao's Stats" >
