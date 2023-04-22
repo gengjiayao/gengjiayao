@@ -64,5 +64,4 @@
   <a href="https://www.youtube.com/channel/UCxFkZjbpt0KyhEv1d342SQQ" target="_blank" alt="YouTube" title="YouTube">
     <img src="https://img.icons8.com/ios-filled/50/000000/youtube-play.png" width="30px"/>
   </a>
-  &emsp;
 </p>
