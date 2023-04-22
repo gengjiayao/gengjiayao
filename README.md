@@ -46,7 +46,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=scala,java,vim,git,html,csslatex" />
+    <img src="https://skillicons.dev/icons?i=scala,java,vim,git,html,css,latex" />
   </a>
 </p>
 
