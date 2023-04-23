@@ -37,7 +37,7 @@
     <img src="https://img.icons8.com/material-two-tone/50/000000/zhihu.png" width="28px"/>
   </a>
   &emsp;
-  <a href="https://www.youtube.com/channel/UCxFkZjbpt0KyhEv1d342SQQ" target="_blank" alt="YouTube" title="YouTube">
+  <a href="https://www.youtube.com/channel/UCq1_eVCjCsDAKaDn5ym4KdQ" target="_blank" alt="YouTube" title="YouTube">
     <img src="https://img.icons8.com/ios-filled/50/000000/youtube-play.png" width="30px"/>
   </a>
 </p>
