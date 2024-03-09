@@ -14,7 +14,7 @@
 
 - 🌱 I’m studying the relevant knowledge of computer hardware, especially computer architecture.
 
-- 👯 I am working on my graduation project at the Institute of Computing, Chinese Academy of Sciences.
+- 👯 I am working on my graduation project at [the Institute of Computing, Chinese Academy of Sciences](http://www.ict.ac.cn/).
 
 - 📒 is also the place where I will pursue my postgraduate studies soon.
 
