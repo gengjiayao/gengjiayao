@@ -12,9 +12,9 @@
 
 - 🔭 I’m currently a junior majoring in Computer Science and Technology at [Beijing Jiaotong University](https://www.bjtu.edu.cn).
 
-- 🌱 I’m studying the relevant knowledge of computer hardware, especially computer architecture and operating systems.
+- 🌱 I’m studying the relevant knowledge of computer hardware, especially computer architecture.
 
-- 👯 I’m currently preparing for the nscscc-2023 and the Operating System Kernel Contest with my team.
+- 👯 I am working on my graduation project at the Institute of Computing, Chinese Academy of Sciences. It is also the place where I will pursue my postgraduate studies soon.
 
 - 😄 As for hobbies, I enjoy activities such as solving Rubik's Cube, archery, and playing tennis.
 
