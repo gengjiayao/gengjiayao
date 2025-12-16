@@ -26,7 +26,7 @@
   I'm a rookie who couldn't even boil an egg!
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://space.bilibili.com/323342686" target="_blank" alt="Bilibili" title="Bilibili">
     <img src="https://user-images.githubusercontent.com/29084184/166415345-91925d37-c66f-448f-8d75-c8355fe0b692.png" width="30px"/>
   </a>
@@ -70,4 +70,4 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=linux,unity" />
   </a>
-</p>
+</p> -->
