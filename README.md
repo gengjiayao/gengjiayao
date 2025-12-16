@@ -14,8 +14,6 @@
 
 - 🌱 I'm studying the relevant knowledge of computer hardware, especially computer architecture.
 
-- 😄 As for hobbies, I enjoy activities such as solving Rubik's Cube, archery, and playing tennis.
-
 - 📫 My personal emal is gengjiayao24@mails.ucas.ac.com.
 
 <p align="center"> 
