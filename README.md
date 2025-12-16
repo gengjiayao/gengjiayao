@@ -10,17 +10,13 @@
 </p>
 -->
 
-- 🔭 I’m currently a junior majoring in Computer Science and Technology at [Beijing Jiaotong University](https://www.bjtu.edu.cn).
+- 🔭 I'm currently a second-year master's student majoring in Computer Science and Technology at [Institute of Computing Technology](https://www.ict.ac.cn/).
 
-- 🌱 I’m studying the relevant knowledge of computer hardware, especially computer architecture.
-
-- 👯 I'm working on my graduation project at [Institute of Computing Technology](http://www.ict.ac.cn/).
-
-- 📒 is also the place where I will pursue my postgraduate studies soon.
+- 🌱 I'm studying the relevant knowledge of computer hardware, especially computer architecture.
 
 - 😄 As for hobbies, I enjoy activities such as solving Rubik's Cube, archery, and playing tennis.
 
-- 📫 My personal emal is 1098469310@qq.com. My shool email is 20221282@bjtu.edu.cn.
+- 📫 My personal emal is gengjiayao24@mails.ucas.ac.com.
 
 <p align="center"> 
   <img src="./IMG_6632.GIF" width="80px"/>
